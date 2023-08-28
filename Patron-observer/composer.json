@@ -1,0 +1,16 @@
+{
+    "name": "albaraquelvelascogonzalez/patron-observer",
+    "autoload": {
+        "psr-4": {
+            "Albaraquelvelascogonzalez\\PatronObserver\\": "src/",
+            "Observer\\": "Observer"
+        }
+    },
+    "authors": [
+        {
+            "name": "Alba Velasco",
+            "email": "albavelascoglez@gmail.com"
+        }
+    ],
+    "require": {}
+}
